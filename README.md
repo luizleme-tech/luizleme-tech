@@ -1,6 +1,6 @@
 Olá Pessoal \O/ 👋 
 
-My name is Luiz Leme, and I'm from Brazil (🇧🇷). I've been working as Software Engineer since 2005. Actually I work as a Software Specialist at VR and here I make it as my personal lab, sharing many stuff :)
+My name is Luiz Leme, and I'm from Brazil (🇧🇷). I've been working as Software Engineer since 2005. Actually I work as a Senior Software Engineer at Mercado Livre and here I make it as my personal lab, sharing many stuff :)
 
 Would you like to find me?
 
